@@ -1,4 +1,4 @@
-# candidate of SIZE: XS, S, M, L, XL
+# candidate of SIZE: XS, S, M, L, (XL)
 SIZE=XS
 # how many regions in i,j,k directions the domain is decomposed into
 IDIV=1
